@@ -1,0 +1,6 @@
+dash==2.18.1
+feffery_antd_charts==0.1.0rc6
+feffery_antd_components==0.3.7
+feffery_dash_utils==0.1.4
+pandas==2.2.3
+Requests==2.32.3
